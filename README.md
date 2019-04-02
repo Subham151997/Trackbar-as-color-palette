@@ -1,0 +1,1 @@
+# Trackbar-as-color-palette
